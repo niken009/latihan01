@@ -7,3 +7,5 @@ user2 mengurangi baris
 
 user1 menambahkan baris lagi
 
+branch dev user2 menambahkan sesuatu
+
