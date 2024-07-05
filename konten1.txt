@@ -2,4 +2,8 @@ latihan01 commit1
 
 user2 mengubah/menambah sesuatu
 
+
 user2 mengurangi baris
+
+user1 menambahkan baris lagi
+
